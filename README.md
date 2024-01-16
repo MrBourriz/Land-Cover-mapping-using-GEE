@@ -8,7 +8,9 @@ Multiple classifiers, such as Random Forest (RF), Artificial Neural Network (ANN
 The 1st script specifically focuses on implementing (RF) within Google Earth Engine (GEE). On the other hand, the second script is designed for visualizing time series data, with a specific emphasis on the Normalized Difference Vegetation Index (NDVI).
 
 ## Dataset
-
+- Landsat 7 Collection 2 Tier 1 TOA Reflectance
+- MOD13A2.061 Terra Vegetation Indices 16-Day Global 1km (MODIS)
+- Shapefile of the Province of Berkane 
 ## General Workflow
 
 ![image](https://github.com/MrBourriz/Land-Cover-mapping-using-GEE/assets/108701137/0f6b7227-f920-46af-8633-5fcbeca183af)
