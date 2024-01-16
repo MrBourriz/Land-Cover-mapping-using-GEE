@@ -30,12 +30,11 @@ Pull requests are always welcome!
 For significant changes or bug reports, please initiate the process by opening an issue, this allows us to collaboratively address the proposed modifications to improve this project. 
 
 ## To Do
+
+- [x] Implementation of the classification 
 - [x] 
-- [x] 
-- [x]
-- [ ] 
-- [ ] 
-- [ ]    
+- [ ] Enhancement of the classification accuracy
+- [ ] Convert GEE JavaScript to Python 
 
 ## Acknowledgments
 
