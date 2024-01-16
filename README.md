@@ -22,7 +22,7 @@ The 1st script specifically focuses on implementing (RF) within Google Earth Eng
 ![image](https://github.com/MrBourriz/Land-Cover-mapping-using-GEE/assets/108701137/3b52f975-e1e9-4468-8756-c314921771a2)
 
 ## 2. NDVI time series visualization
-![NDVI](https://github.com/MrBourriz/Land-Cover-mapping-using-GEE/assets/108701137/3a95693d-d343-4ad9-a26a-eabc83294dd8)
+![74f87e9cfef8a698fe108972f9efdeca-2a800343cae1854a62a6c791b6c0506f_getPixels](https://github.com/MrBourriz/Land-Cover-mapping-using-GEE/assets/108701137/d6d9630f-ee8e-453b-bb12-0964a3891247)
 
 
 ## Contributing
@@ -31,10 +31,10 @@ For significant changes or bug reports, please initiate the process by opening a
 
 ## To Do
 
-- [x] Implementation of the classification 
-- [x] 
-- [ ] Enhancement of the classification accuracy
-- [ ] Convert GEE JavaScript to Python 
+- [x] Implementing RF Algorithm in GEE.
+- [x] Visualization of the NDVI time series.
+- [ ] Enhancement of the classification accuracy.
+- [ ] Convert GEE JavaScript to Python. 
 
 ## Acknowledgments
 
