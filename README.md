@@ -11,7 +11,8 @@ The 1st script specifically focuses on implementing (RF) within Google Earth Eng
 
 ## General Workflow
 
-![image](https://github.com/MrBourriz/Land-Cover-mapping-using-GEE/assets/108701137/909a3853-8358-4096-aaa4-e052cc64bc5b)
+![image](https://github.com/MrBourriz/Land-Cover-mapping-using-GEE/assets/108701137/0f6b7227-f920-46af-8633-5fcbeca183af)
+
 
 ## Results
 
