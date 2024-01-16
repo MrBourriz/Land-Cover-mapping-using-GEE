@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains scripts developed for a project that aims to explore the spatio-temporal monitoring of land use in the province of Berkane.
+This repository contains scripts developed for a project that aims to explore the spatio-temporal monitoring of land cover in the province of Berkane.
 The study employs various classification approaches including pixel-based and object-based image analysis (OBIA),with the objective of comparing their effectivness.
 Multiple classifiers, such as Random Forest (RF), Artificial Neural Network (ANN), and Decision Tree (DT), have been selected for the classification process.
 The 1st script specifically focuses on implementing (RF) within Google Earth Engine (GEE). On the other hand, the second script is designed for visualizing time series data, with a specific emphasis on the Normalized Difference Vegetation Index (NDVI).
