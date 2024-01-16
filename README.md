@@ -37,10 +37,13 @@ For significant changes or bug reports, please initiate the process by opening a
 - [ ] Convert GEE JavaScript to Python. 
 
 ## Acknowledgments
-
+This project would not have been possible without the collaborative efforts and contributions from:
+- [Tahri Oussama](https://github.com/Oussamaaat)
+- [Bounoua Ismail](https://github.com/bounouaismail)
+-  Youssef Saidi
 
 ## References
-
+[1] Google Earth Engine guides. Website. https://developers.google.com/earth-engine/guides
 
 
 ## Contact
